@@ -5,9 +5,14 @@ nav_order: 1
 ---
 
 # Course Syllabus
+{: .no_toc }
 
 (Last updated: Jan 23, 2024)
 
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
 
 {: .highlight }
