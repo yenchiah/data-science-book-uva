@@ -1,35 +1,69 @@
 ---
-title: Home
-layout: home
+title: Overview
+layout: default
+nav_order: 0
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Course Overview
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+(Last updated: Jan 23, 2024)
 
-More specifically, the created site:
+- Course Name: Data Science (2023/2024)
+- Program: The third year of Bachelor Informatiekunde (i.e., Information Science)
+- Institution: Informatics Institute, University of Amsterdam
+- Instructor: Yen-Chia Hsu \<y.c.hsu@uva.nl\>
+- Refer to the [course syllabus](syllabus) for details.
+- Refer to [DataNose](https://datanose.nl/) for the time table and classroom location.
+- Refer to [Canvas](https://canvas.uva.nl/) for announcements, links to live lectures, and teaching team members' emails.
+- Previous editions: [2023 version](https://multix.io/data-science-book-uva-2023/)
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+All the content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## <a name="schedule"></a>Schedule Outline
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+{: .warning }
+> This course is still under development (the second iteration), and the schedule may be changed.
 
-To get started with creating a site, simply:
+This section provides the outline of weekly activities. We strongly recommend you bring your laptop during the lectures for classroom activities.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Below are the explanation of terms:
+- `notebook`: a Jupyter Notebook script
+- `tutorial`: step-by-step guidences of a notebook script
+- `practice`: a practice (ungraded) for self-study
+- `assignment`: an asssignment (graded)
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+{: .important }
+> There is a preparation section for each lecture. We **strongly recommend** you to prepare them before going to the lectures or tutorials. If you come to the class without doing the preparation part, you may not be able to understand the contents of lectures or tutorials.
 
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- Week 1
+  - [Lecture 1 (Feb 6)](_lectures/lec1): Course introduction, as well as demonstrations of data science's social impact
+  - [Practice 1](_practices/python-warm-up): Python programming warm-up with Pandas and Numpy
+  - [Lecture 2 (Feb 8)](_lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
+- Week 2
+  - [Lecture 3 (Feb 13)](_lectures/lec3): Tutorial of the structured data processing module (using Jupyter Notebook)
+  - [Assignment 1](_assignments/assignment-structured-data): Structured data processing module
+  - [Lecture 4 (Feb 15)](_lectures/lec4): Decision Tree and Random Forest for structured data processing
+- Week 3
+  - [Lecture 5 (Feb 20)](_lectures/lec5): Overview of deep learning techniques and applications
+  - [Practice 2](_practices/pytorch-structured-data): PyTorch implementation of structured data processing
+  - [Lecture 6 (Feb 22)](_lectures/lec6): Tutorial of the PyTorch deep learning framework (using Jupyter Notebook)
+  - We provide a [mock exam](_others/mock-exam-1) for next week's mid-term exam.
+- Week 4
+  - **Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.
+  - A lecture to discuss the mid-term exam (Feb 29)
+- Week 5
+  - [Lecture 7 (Mar 5)](_lectures/lec7): Tutorial for the text data processing module (using Jupyter Notebook)
+  - [Assignment 2](_assignments/assignment-text-data): Text data processing module
+  - [Lecture 8 (Mar 7)](_lectures/lec8): Explain details in the pipeline of processing text data
+- Week 6
+  - [Lecture 9 (Mar 12)](_lectures/lec9): Tutorial for the image data processing module (using Jupyter Notebook)
+  - [Assignment 3](_assignments/assignment-image-data): Image data processing module
+  - [Lecture 10 (Mar 14)](_lectures/lec10): Explain details in the pipeline of processing image data
+- Week 7
+  - [Lecture 11 (Mar 19)](_lectures/lec11): Introduction of multimodal data processing
+  - No assignment this week. Use the time to prepare for the final exam.
+  - [Lecture 12 (Mar 21)](_lectures/lec12): Guest lecture by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) (an assistant professor at Pennsylvania State University) about using crowdsourcing platforms in data science research. This lecture will be given remotely.
+- Week 8
+  - **Final Exam (Mar 26)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the final exam.
+- After this course
+  - **Resit (check DataNose for the date)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the resit.

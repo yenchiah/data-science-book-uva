@@ -7,5 +7,53 @@ url: https://multix-amsterdam.github.io/data-science-book-uva
 aux_links:
   GitHub: https://github.com/MultiX-Amsterdam/data-science-book-uva
 
-plugins:
-  - jekyll-redirect-from
+collections:
+  lectures:
+    permalink: "/:collection/:path/"
+    output: true
+  modules:
+    permalink: "/:collection/:path/"
+    output: true
+  practices:
+    permalink: "/:collection/:path/"
+    output: true
+  assignments:
+    permalink: "/:collection/:path/"
+    output: true
+  others:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    lectures:
+      name: Lectures
+      nav_fold: false
+    modules:
+      name: Modules
+      nav_fold: false
+    practices:
+      name: Practices
+      nav_fold: false
+    assignments:
+      name: Assignments
+      nav_fold: false
+    others:
+      name: Others
+      nav_fold: false
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
