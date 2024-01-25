@@ -6,3 +6,6 @@ url: https://multix-amsterdam.github.io/data-science-book-uva
 
 aux_links:
   GitHub: https://github.com/MultiX-Amsterdam/data-science-book-uva
+
+plugins:
+  - jekyll-redirect-from
