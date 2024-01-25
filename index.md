@@ -47,7 +47,7 @@ Below are the explanation of terms:
   - Lecture 5 (Feb 20): Overview of deep learning techniques and applications
   - Practice 2: PyTorch implementation of structured data processing
   - Lecture 6 (Feb 22): Tutorial of the PyTorch deep learning framework (using Jupyter Notebook)
-  - We provide a [mock exam](others/mock-exam-1) for next week's mid-term exam.
+  - We provide a mock exam for next week's mid-term exam.
 - Week 4
   - **Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.
   - A lecture to discuss the mid-term exam (Feb 29)

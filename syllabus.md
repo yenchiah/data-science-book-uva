@@ -82,7 +82,7 @@ For example, you may experience poor sound quality or incomplete lectures in the
 In principle, the seminars (werkcollege) are in-person only.
 If the TAs cannot attend the physical classroom due to unexpected situations, they may give the sessions virtually.
 
-## Grading: Exams and Reflective Writing
+## Grading
 
 Your final grade is based on assignments and exams:
 - 10% weight for reflective writing of the assignments from three modules; each counts as one-third of the total 10%
