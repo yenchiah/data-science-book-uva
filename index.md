@@ -36,33 +36,33 @@ Below are the explanation of terms:
 > There is a preparation section for each lecture. We **strongly recommend** you to prepare them before going to the lectures or tutorials. If you come to the class without doing the preparation part, you may not be able to understand the contents of lectures or tutorials.
 
 - Week 1
-  - [Lecture 1 (Feb 6)](_lectures/lec1): Course introduction, as well as demonstrations of data science's social impact
+  - [Lecture 1 (Feb 6)](lectures/lec1): Course introduction, as well as demonstrations of data science's social impact
   - [Practice 1](_practices/python-warm-up): Python programming warm-up with Pandas and Numpy
-  - [Lecture 2 (Feb 8)](_lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
+  - [Lecture 2 (Feb 8)](lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
 - Week 2
-  - [Lecture 3 (Feb 13)](_lectures/lec3): Tutorial of the structured data processing module (using Jupyter Notebook)
-  - [Assignment 1](_assignments/assignment-structured-data): Structured data processing module
-  - [Lecture 4 (Feb 15)](_lectures/lec4): Decision Tree and Random Forest for structured data processing
+  - [Lecture 3 (Feb 13)](lectures/lec3): Tutorial of the structured data processing module (using Jupyter Notebook)
+  - [Assignment 1](assignments/assignment-structured-data): Structured data processing module
+  - [Lecture 4 (Feb 15)](lectures/lec4): Decision Tree and Random Forest for structured data processing
 - Week 3
-  - [Lecture 5 (Feb 20)](_lectures/lec5): Overview of deep learning techniques and applications
-  - [Practice 2](_practices/pytorch-structured-data): PyTorch implementation of structured data processing
-  - [Lecture 6 (Feb 22)](_lectures/lec6): Tutorial of the PyTorch deep learning framework (using Jupyter Notebook)
-  - We provide a [mock exam](_others/mock-exam-1) for next week's mid-term exam.
+  - [Lecture 5 (Feb 20)](lectures/lec5): Overview of deep learning techniques and applications
+  - [Practice 2](practices/pytorch-structured-data): PyTorch implementation of structured data processing
+  - [Lecture 6 (Feb 22)](lectures/lec6): Tutorial of the PyTorch deep learning framework (using Jupyter Notebook)
+  - We provide a [mock exam](others/mock-exam-1) for next week's mid-term exam.
 - Week 4
   - **Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.
   - A lecture to discuss the mid-term exam (Feb 29)
 - Week 5
-  - [Lecture 7 (Mar 5)](_lectures/lec7): Tutorial for the text data processing module (using Jupyter Notebook)
-  - [Assignment 2](_assignments/assignment-text-data): Text data processing module
-  - [Lecture 8 (Mar 7)](_lectures/lec8): Explain details in the pipeline of processing text data
+  - [Lecture 7 (Mar 5)](lectures/lec7): Tutorial for the text data processing module (using Jupyter Notebook)
+  - [Assignment 2](assignments/assignment-text-data): Text data processing module
+  - [Lecture 8 (Mar 7)](lectures/lec8): Explain details in the pipeline of processing text data
 - Week 6
-  - [Lecture 9 (Mar 12)](_lectures/lec9): Tutorial for the image data processing module (using Jupyter Notebook)
-  - [Assignment 3](_assignments/assignment-image-data): Image data processing module
-  - [Lecture 10 (Mar 14)](_lectures/lec10): Explain details in the pipeline of processing image data
+  - [Lecture 9 (Mar 12)](lectures/lec9): Tutorial for the image data processing module (using Jupyter Notebook)
+  - [Assignment 3](assignments/assignment-image-data): Image data processing module
+  - [Lecture 10 (Mar 14)](lectures/lec10): Explain details in the pipeline of processing image data
 - Week 7
-  - [Lecture 11 (Mar 19)](_lectures/lec11): Introduction of multimodal data processing
+  - [Lecture 11 (Mar 19)](lectures/lec11): Introduction of multimodal data processing
   - No assignment this week. Use the time to prepare for the final exam.
-  - [Lecture 12 (Mar 21)](_lectures/lec12): Guest lecture by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) (an assistant professor at Pennsylvania State University) about using crowdsourcing platforms in data science research. This lecture will be given remotely.
+  - [Lecture 12 (Mar 21)](lectures/lec12): Guest lecture by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) (an assistant professor at Pennsylvania State University) about using crowdsourcing platforms in data science research. This lecture will be given remotely.
 - Week 8
   - **Final Exam (Mar 26)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the final exam.
 - After this course
