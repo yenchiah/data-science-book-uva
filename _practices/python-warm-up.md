@@ -10,7 +10,7 @@ nav_order: 0
 
 ## Materials
 
-- [Python Programming Warm-Up Online Notebook](https://multix.io/data-science-book-uva-2023/docs/others/warm-up.html)
+TBA
 
 ## Usage
 
