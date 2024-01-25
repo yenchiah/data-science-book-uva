@@ -7,13 +7,13 @@ nav_order: 1
 # Course Syllabus
 {: .no_toc }
 
-(Last updated: Jan 23, 2024)
-
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
+
+(Last updated: Jan 23, 2024)
 
 {: .highlight }
 > Data science is about turning rich data into **actionable insight** and making data **impactful**!
@@ -167,14 +167,14 @@ Please follow [the advice from RIVM](https://www.rivm.nl/en/respiratory-infectio
 If you have symptoms associated with COVID-19 or any respiratory infections, please stay home.
 You can use the online lecture live stream, the lecture recordings, and TicketVise on Canvas to participate in the course, as documented in the [virtual/physical settings](#virtual-physical-settings) and [communication principles](#communication-principles).
 
-## <a name="register"></a>Course Registration
+## Course Registration
 
 For general course registration, please refer to the [UvA document](https://student.uva.nl/en/topics/course-registration).
 The Faculty of Science handles registration procedures.
 I do not handle course registration matters.
 If you want to register for the course but you are late, or if you have problems signing up for the course, please get in touch with the following email: <vakaanmelding-fnwi@uva.nl>
 
-## <a name="change-group"></a>Change Groups
+## Change Groups
 
 The course groups are automatically assigned.
 If you need to change groups, please refer to the instruction in the [course registration document](https://student.uva.nl/en/topics/course-registration) to submit a request using the GLASS system.
@@ -234,7 +234,7 @@ If you have a disability and require accommodations, please take a look at [this
 
 We curated a [list of resources](resources) that inspired the development of this course. The course instructor greatly appreciates them.
 
-## <a name="qa"></a>Q&A
+## FAQ
 
 Below is a list of commonly asked questions and their answers.
 
@@ -245,13 +245,13 @@ Below is a list of commonly asked questions and their answers.
 - The best option is to take the resit, which is designed for these situations. The resit schedule is on [DataNose](https://datanose.nl).
 
 **Q3: I want to change the study group. What should I do?**
-- Read details in the [Change Group section](#change-group) in this syllabus.
+- Read details in the [Change Group section](#change-groups) in this syllabus.
 
 **Q4: I need help in course registration (e.g., I register the course late). What should I do?**
-- Read details in the [Course Registration section](#register) in this syllabus.
+- Read details in the [Course Registration section](#course-registration) in this syllabus.
 
 **Q5: What is the cheatsheet for the exam and how should I prepare for that?**
-- Read details in the [Cheatsheet section](#cheatsheet) in this syllabus.
+- Read details in the [Exams section](#exams) in this syllabus.
 
 **Q6: What to do if I have conflicts with my exam schedule (e.g., two exams are at the same time)?**
 - Contact the program coordinator or [study adviser](https://student.uva.nl/en/topics/study-adviser) for solutions.

@@ -7,13 +7,13 @@ nav_order: 2
 # Course Resources
 {: .no_toc }
 
-(Last updated: Jan 23, 2024)
-
 ## Table of Contents
 {: .no_toc .text-delta }
 
-1. TOC
+- TOC
 {:toc}
+
+(Last updated: Jan 23, 2024)
 
 This page curates a list of resources that are used or referenced in this course. These resources also inspired the development of this course.
 
