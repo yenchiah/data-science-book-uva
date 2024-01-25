@@ -37,32 +37,32 @@ Below are the explanation of terms:
 
 - Week 1
   - [Lecture 1 (Feb 6)](lectures/lec1): Course introduction, as well as demonstrations of data science's social impact
-  - [Practice 1](practices/python-warm-up): Python programming warm-up with Pandas and Numpy
+  - Practice 1: Python programming warm-up with Pandas and Numpy
   - [Lecture 2 (Feb 8)](lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
 - Week 2
-  - [Lecture 3 (Feb 13)](lectures/lec3): Tutorial of the structured data processing module (using Jupyter Notebook)
-  - [Assignment 1](assignments/assignment-structured-data): Structured data processing module
-  - [Lecture 4 (Feb 15)](lectures/lec4): Decision Tree and Random Forest for structured data processing
+  - Lecture 3 (Feb 13): Tutorial of the structured data processing module (using Jupyter Notebook)
+  - Assignment 1: Structured data processing module
+  - Lecture 4 (Feb 15): Decision Tree and Random Forest for structured data processing
 - Week 3
-  - [Lecture 5 (Feb 20)](lectures/lec5): Overview of deep learning techniques and applications
-  - [Practice 2](practices/pytorch-structured-data): PyTorch implementation of structured data processing
-  - [Lecture 6 (Feb 22)](lectures/lec6): Tutorial of the PyTorch deep learning framework (using Jupyter Notebook)
+  - Lecture 5 (Feb 20): Overview of deep learning techniques and applications
+  - Practice 2: PyTorch implementation of structured data processing
+  - Lecture 6 (Feb 22): Tutorial of the PyTorch deep learning framework (using Jupyter Notebook)
   - We provide a [mock exam](others/mock-exam-1) for next week's mid-term exam.
 - Week 4
   - **Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.
   - A lecture to discuss the mid-term exam (Feb 29)
 - Week 5
-  - [Lecture 7 (Mar 5)](lectures/lec7): Tutorial for the text data processing module (using Jupyter Notebook)
-  - [Assignment 2](assignments/assignment-text-data): Text data processing module
-  - [Lecture 8 (Mar 7)](lectures/lec8): Explain details in the pipeline of processing text data
+  - Lecture 7 (Mar 5): Tutorial for the text data processing module (using Jupyter Notebook)
+  - Assignment 2: Text data processing module
+  - Lecture 8 (Mar 7): Explain details in the pipeline of processing text data
 - Week 6
-  - [Lecture 9 (Mar 12)](lectures/lec9): Tutorial for the image data processing module (using Jupyter Notebook)
-  - [Assignment 3](assignments/assignment-image-data): Image data processing module
-  - [Lecture 10 (Mar 14)](lectures/lec10): Explain details in the pipeline of processing image data
+  - Lecture 9 (Mar 12): Tutorial for the image data processing module (using Jupyter Notebook)
+  - Assignment 3: Image data processing module
+  - Lecture 10 (Mar 14): Explain details in the pipeline of processing image data
 - Week 7
-  - [Lecture 11 (Mar 19)](lectures/lec11): Introduction of multimodal data processing
+  - Lecture 11 (Mar 19): Introduction of multimodal data processing
   - No assignment this week. Use the time to prepare for the final exam.
-  - [Lecture 12 (Mar 21)](lectures/lec12): Guest lecture by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) (an assistant professor at Pennsylvania State University) about using crowdsourcing platforms in data science research. This lecture will be given remotely.
+  - Lecture 12 (Mar 21): Review of final exam materials (the first hour) and a guest lecture (the second hour) by [Dr. Ting-Hao 'Kenneth' Huang](https://crowd.ist.psu.edu/) about using crowdsourcing in data science research. **This lecture will be given remotely.**
 - Week 8
   - **Final Exam (Mar 26)**, covering materials from Lecture 1 to 11, Practice 1 to 2, and Assignment 1 to 3. Lecture 12 is not covered in the final exam.
 - After this course

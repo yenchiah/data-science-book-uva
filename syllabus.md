@@ -8,6 +8,8 @@ nav_order: 1
 
 (Last updated: Jan 23, 2024)
 
+{:toc}
+
 {: .highlight }
 > Data science is about turning rich data into **actionable insight** and making data **impactful**!
 

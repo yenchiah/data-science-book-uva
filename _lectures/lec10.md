@@ -2,6 +2,7 @@
 title: "L10: Image Data II"
 layout: default
 nav_order: 9
+nav_exclude: true
 ---
 
 # Lecture 10: Image Data Processing (Part II)

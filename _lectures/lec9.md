@@ -2,6 +2,7 @@
 title: "L9: Image Data I"
 layout: default
 nav_order: 8
+nav_exclude: true
 ---
 
 # Lecture 9: Image Data Processing (Part I)

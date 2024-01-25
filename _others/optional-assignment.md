@@ -2,6 +2,7 @@
 title: Optional Assignment
 layout: default
 nav_order: 1
+nav_exclude: true
 ---
 
 # Optional Assignment

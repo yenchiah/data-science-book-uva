@@ -2,6 +2,7 @@
 title: "L11: Multimodal Data"
 layout: default
 nav_order: 10
+nav_exclude: true
 ---
 
 # Lecture 11: Multimodal Data Processing

@@ -8,6 +8,8 @@ nav_order: 2
 
 (Last updated: Jan 23, 2024)
 
+{:toc}
+
 This page curates a list of resources that are used or referenced in this course. These resources also inspired the development of this course.
 
 ## PDF Books

@@ -2,6 +2,7 @@
 title: "L6: PyTorch Basics"
 layout: default
 nav_order: 5
+nav_exclude: true
 ---
 
 # Lecture 6: PyTorch Basics

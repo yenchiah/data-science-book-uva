@@ -2,6 +2,7 @@
 title: "L3: Structured Data I"
 layout: default
 nav_order: 2
+nav_exclude: true
 ---
 
 # Lecture 3: Structured Data Processing (Part I)

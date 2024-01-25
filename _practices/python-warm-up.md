@@ -2,6 +2,7 @@
 title: "P1: Python Warm-Up"
 layout: default
 nav_order: 0
+nav_exclude: true
 ---
 
 # Practice 1: Python Programming Warm-Up

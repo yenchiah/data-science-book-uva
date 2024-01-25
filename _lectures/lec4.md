@@ -2,6 +2,7 @@
 title: "L4: Structured Data II"
 layout: default
 nav_order: 3
+nav_exclude: true
 ---
 
 # Lecture 4: Structured Data Processing (Part II)
