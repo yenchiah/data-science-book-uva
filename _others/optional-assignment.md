@@ -11,7 +11,7 @@ nav_order: 1
 {: .warning }
 > This assignment is optional. Doing this assignment is voluntary and does not give you extra scores. The grading rubric is only for reference.
 
-In the [structured data processing tutorial](../_lectures/lec3), you have learned the background of the Smell Pittsburgh application and the machine learning pipeline to build a model to predict the presence of bad smell based on sensor and weather data.
+In the structured data processing tutorial, you have learned the background of the Smell Pittsburgh application and the machine learning pipeline to build a model to predict the presence of bad smell based on sensor and weather data.
 In this optional assignment, you need to design your own experiment to answer the following question raised by the local Pittsburgh community:
 
 {: .important-title }

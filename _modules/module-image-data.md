@@ -1,6 +1,6 @@
 ---
 title: "Image Data Processing"
 layout: forward
-target: https://multix.io/data-science-book-uva-2023/docs/modules/image-data-module/overview-image-data.html
+target: https://multix.io/data-science-book-uva/error
 nav_order: 2
 ---

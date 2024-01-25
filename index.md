@@ -37,7 +37,7 @@ Below are the explanation of terms:
 
 - Week 1
   - [Lecture 1 (Feb 6)](lectures/lec1): Course introduction, as well as demonstrations of data science's social impact
-  - [Practice 1](_practices/python-warm-up): Python programming warm-up with Pandas and Numpy
+  - [Practice 1](practices/python-warm-up): Python programming warm-up with Pandas and Numpy
   - [Lecture 2 (Feb 8)](lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
 - Week 2
   - [Lecture 3 (Feb 13)](lectures/lec3): Tutorial of the structured data processing module (using Jupyter Notebook)
