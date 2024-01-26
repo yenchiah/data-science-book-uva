@@ -102,7 +102,7 @@ However, according to the [OER rule](https://student.uva.nl/onderwerpen/onderwij
 After each exam, the teaching team will grade the exam and release the grades as soon as possible.
 After the grade is released, we will announce on Canvas how students can inspect their exam results.
 
-### Reflective Writing of Assignments
+## Reflective Writing of Assignments
 
 {: .important }
 > Assignment instructions and materials will all be in English.
@@ -117,7 +117,7 @@ We expect you to do the assignments by yourself and discuss them with the TAs in
 The questions in mid-term and final exams can be similar to those in the assignments.
 Doing the assignments also helps you greatly in preparing for the exams.
 
-### Exams
+## Exams
 
 {: .important }
 > Exam instructions and materials will all be in English since the course materials are in English. In this way, we can match the exam questions clearly with course materials.
@@ -136,8 +136,26 @@ We will provide only one mock exam before the mid-term exam for you to practice.
 We will use guess correction for your score on the multiple-choice questions.
 Details about how the ANS system uses guess correction is in [this online document](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction).
 
+To prepare for the exam, please make sure that you do all the practices and assignments, go through all the Jupyter Notebooks for the three modules (structured data, text data, and image data), and understand the content in the course slides.
+
 {: .warning }
 > The University of Amsterdam owns the materials in this exam (e.g., the question sets), which means the materials are copyright-protected. You must keep the exam content confidential and are not allowed to copy or distribute the content in any form.
+
+### On the Exam Day
+
+{: .important-title }
+> Important Notice on the Exam Day
+>
+> - There are scrap papers at the exam location, and we will provide them to you if you need them.
+> - Please make sure to bring your ID. We will check your ID at the exam location.
+> - Please remember to sign the attendance list after someone has checked your ID.
+> - You are only allowed to enter the exam room up to 30 minutes past the exam starting time.
+> - You are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes).
+
+{: .warning }
+> Anyone who arrives more than 30 minutes late cannot participate in the exam. We are very strict about this.
+
+### Cheat Sheet
 
 During the exam, you may bring an A4-size cheat sheet with you.
 You can choose to handwrite or print the content on both sides of the cheat sheet.
@@ -148,18 +166,6 @@ After the exam, you can take the cheat sheet back with you.
 The cheat sheet is designed to reduce your workload in memorizing details (e.g., math equations) and also help you prepare for exams.
 For example, maybe there are parts that confuse you when you study course materials, and you may put them in the cheat sheet.
 Another example is that you may put bullet points that can help you recall information (e.g., some important concepts).
-
-{: .important-title }
-> Important Notice During the Exam Day
->
-> - There are scrap papers at the exam location, and we will provide them to you if you need them.
-> - Please make sure to bring your ID. We will check your ID at the exam location.
-> - Please remember to sign the attendance list after someone has checked your ID.
-> - You are only allowed to enter the exam room up to 30 minutes past the exam starting time.
-> - You are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes).
-
-{: .warning }
-> Anyone who arrives more than 30 minutes late cannot participate in the exam. We are very strict about this.
 
 ## Hygiene
 
