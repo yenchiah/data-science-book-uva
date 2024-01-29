@@ -132,7 +132,7 @@ Late submissions within 24 hours receive no penalty.
 {: .warning }
 > Submissions that are more than 24 hours late will receive a fail grade.
 
-For special requests (e.g., deadline extensions) due to personal circumstances that impact your learning, please check the “Support for Students Wellness” section.
+For special requests (e.g., deadline extensions) due to personal circumstances that impact your learning, please check the [Support for Students Wellness](#support-for-students-wellness) section.
 
 ## Exams
 
@@ -279,7 +279,7 @@ If you have a disability and require accommodations, please take a look at [this
 I allow and encourage my students to use generative AI tools (such as ChatGPT) in assignments or projects (not exams) to boost their productivity.
 However, it is important to know that generative AI tools come with risks that can also negatively impact your grade if you use them.
 For example, ChatGPT tends to give fake sources and citations.
-If we find fake sources/citations in your submissions, your score for the submission will likely be deducted.
+If we find fake sources or citations in your submissions, your score for the submission will likely be deducted.
 
 If you are not familiar with generative AI tools, we recommend checking the follow e-learning module:
 - [Responsible use of Generative Artificial Intelligence (GenAI) in education](https://rise.articulate.com/share/MyfLgG-cXE1a7XBuctQhndpJB-BgpYny#/)
