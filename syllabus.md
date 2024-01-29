@@ -184,6 +184,13 @@ The cheat sheet is designed to reduce your workload in memorizing details (e.g.,
 For example, maybe there are parts that confuse you when you study course materials, and you may put them in the cheat sheet.
 Another example is that you may put bullet points that can help you recall information (e.g., some important concepts).
 
+## Policy for Retaking This Course
+
+For students who followed the course last year, we add a reflective writing of assignments to grading (which counts as 10% of the final grade).
+You can carry over the scores for mid-term or final exam to this year, but they will only add up to at most 90% of the grade.
+For example, if you carry over the final exam score, it will only count as 50% of the total grade this year.
+The mid-term exam will count as 40%. This means that you will need to do the reflective writing to be able to get the remaining 10%.
+
 ## Hygiene
 
 Please follow [the advice from RIVM](https://www.rivm.nl/en/respiratory-infections) (National Institute for Public Health and the Environment) regarding coronavirus measures.
