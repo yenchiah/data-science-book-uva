@@ -117,6 +117,23 @@ We expect you to do the assignments by yourself and discuss them with the TAs in
 The questions in mid-term and final exams can be similar to those in the assignments.
 Doing the assignments also helps you greatly in preparing for the exams.
 
+## Late Policy of Submissions
+
+We are very strict on late submissions and how you submit your work.
+This policy applies to all students in the course, including those who retake the course.
+You must submit your work to Canvas.
+
+{: .warning }
+> We do not accept submissions via email.
+
+Please carefully consider your submission time and do not wait until the last moment to do so.
+Late submissions within 24 hours receive no penalty.
+
+{: .warning }
+> Submissions that are more than 24 hours late will receive a fail grade.
+
+For special requests (e.g., deadline extensions) due to personal circumstances that impact your learning, please check the “Support for Students Wellness” section.
+
 ## Exams
 
 {: .important }
@@ -177,7 +194,7 @@ You can use the online lecture live stream, the lecture recordings, and TicketVi
 
 For general course registration, please refer to the [UvA document](https://student.uva.nl/en/topics/course-registration).
 The Faculty of Science handles registration procedures.
-I do not handle course registration matters.
+The teaching team does not handle course registration matters.
 If you want to register for the course but you are late, or if you have problems signing up for the course, please get in touch with the following email: <vakaanmelding-fnwi@uva.nl>
 
 ## Change Groups
@@ -185,10 +202,25 @@ If you want to register for the course but you are late, or if you have problems
 The course groups are automatically assigned.
 If you need to change groups, please refer to the instruction in the [course registration document](https://student.uva.nl/en/topics/course-registration) to submit a request using the GLASS system.
 
+The course study groups (the ones with letters for your seminars, such as “Group A”) are automatically assigned.
+Before the course starts, if you need to change the study groups (e.g., to move to a different seminar time), you need to follow the GLASS system's rules.
+Please refer to the instruction in the [course registration document](https://student.uva.nl/en/topics/course-registration) to submit a request using the GLASS system.
+
+After the course starts, you can still request group changes.
+The general rule is that you need to find someone who is willing to switch groups with you.
+Then, both of you need to send a message on Canvas or by email to the course coordinator to confirm your willingness to switch groups. People who follow this rule will receive higher priority in the group change.
+
+You can also contact the course coordinator to change groups without finding a person who is willing to switch groups with you, and we will do our best to accommodate your needs.
+People who go this route will receive lower priority.
+
+{: .important }
+> We cannot guarantee a successful group change in all the above cases (either following the general rule or just submitting preferences), as the teaching team needs to balance the workload among teaching assistants.
+
 ## Course Attendance
 
-I do not track the attendance of this course (e.g., lectures, seminars) and expect students to follow their own learning progress.
-You do not need to notify me in case of absence.
+This course will not track attendance (e.g., lectures, seminars).
+We expect students to follow their own learning progress.
+You do not need to notify the teaching team and the TAs in case of absence.
 
 ## Fraud and Plagiarism
 
@@ -198,10 +230,13 @@ When in doubt, please consult the “Regulations Governing Fraud and Plagiarism 
 ## Communication Principles
 
 Class members are expected to treat others with mutual respect and appreciation regardless of any differences.
-It is my intent that students from all diverse backgrounds and perspectives be well served by the course.
+It is our intent that students from diverse backgrounds and perspectives be well served by the course.
+In this way, we can create a safe environment for discussions.
 
-The best ways to contact TAs and me outside the lectures and seminars are via email or TicketVise (similar to the discussion board) on Canvas.
-Please keep in mind that responses from TAs and me could be delayed due to weekends or holidays.
+The best ways to contact TAs and the teaching team outside the lectures and work sessions are via TicketVise (similar to the discussion board) on Canvas, the Inbox message on Canvas, or email.
+We prefer TicketVise as the questions can be allocated to the teaching team members based on their types.
+Also, other students may have the same question and thus can check TicketVise to get answers.
+Please keep in mind that responses from TAs and the teaching team could be delayed due to weekends or holidays.
 
 All course announcements will be on Canvas.
 I expect students to monitor Canvas periodically for any changes in deadlines, or any other announcements.
@@ -232,9 +267,30 @@ I expect students to monitor Canvas periodically for any changes in deadlines, o
 If you experience mental health concerns or stressful events that can interfere with learning and daily activities (such as strained relationships, increased anxiety, substance use, feeling down, difficulty concentrating, and lack of motivation), UvA services are available.
 You can learn more about (confidential) mental health services available on campus in [this UvA link](https://student.uva.nl/en/topics/mental-health).
 
+As documented in the [OER rule](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer), for any personal circumstances that impact your studies (e.g., illness, disability, or family issues), contact your [study advisor](https://student.uva.nl/en/topics/study-adviser).
+Exceptions can only be made if the study advisor contacts the teaching team for special arrangements, and these exceptions sometimes may require approval from the examination committee.
+
 ## Accommodations for Students with Disabilities
 
 If you have a disability and require accommodations, please take a look at [this UvA link](https://student.uva.nl/en/topics/studying-with-a-disability-dyslexia-or-chronic-illness) to request special facilities or additional resources.
+
+## Policy for Using Generative AI Tools
+
+I allow and encourage my students to use generative AI tools (such as ChatGPT) in assignments or projects (not exams) to boost their productivity.
+However, it is important to know that generative AI tools come with risks that can also negatively impact your grade if you use them.
+For example, ChatGPT tends to give fake sources and citations.
+If we find fake sources/citations in your submissions, your score for the submission will likely be deducted.
+
+If you are not familiar with generative AI tools, we recommend checking the follow e-learning module:
+- [Responsible use of Generative Artificial Intelligence (GenAI) in education](https://rise.articulate.com/share/MyfLgG-cXE1a7XBuctQhndpJB-BgpYny#/)
+
+You do not need to report the usage of generative AI, as I see it as a tool that people will integrate naturally into their workflow.
+If you are interested in the motivation of allowing the use of generative AI in this course, please check the following paper:
+- [Van Dis, E. A., Bollen, J., Zuidema, W., van Rooij, R., & Bockting, C. L. (2023). ChatGPT: five priorities for research. Nature, 614(7947), 224-226.](https://www.nature.com/articles/d41586-023-00288-7)
+
+My opinion is largely aligned with the points in the above paper.
+I prefer embracing its benefits so that we can jointly understand how people are using it, and thus can provide us more opportunities and reflections about how this kind of tool should be used or regulated in the future.
+
 
 ## Resources
 
