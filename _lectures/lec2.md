@@ -17,8 +17,8 @@ Read the [Smell Pittsburgh paper](https://dl.acm.org/doi/10.1145/3369397).
 
 ## Materials
 
-- [Slides for Lecture 2-1: Data Science Fundamentals (Pipeline)](../slides/lec2-1.pdf)
-- [Slides for Lecture 2-2: Data Science Fundamentals (Modeling)](../slides/lec2-2.pdf)
+- [Slides for Lecture 2-1: Data Science Fundamentals (Pipeline)]({{ site.baseurl }}/slides/lec2-1.pdf)
+- [Slides for Lecture 2-2: Data Science Fundamentals (Modeling)]({{ site.baseurl }}/slides/lec2-2.pdf)
 
 ## Additional Resources
 
