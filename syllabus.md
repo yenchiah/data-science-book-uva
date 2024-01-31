@@ -13,7 +13,7 @@ nav_order: 1
 - TOC
 {:toc}
 
-(Last updated: Jan 23, 2024)
+(Last updated: Jan 31, 2024)
 
 {: .highlight }
 > Data science is about turning rich data into **actionable insight** and making data **impactful**!
@@ -147,16 +147,60 @@ You can use the question mark "?" syntax to [access the IPython help](https://ip
 > It is not allowed to do exams at home or remotely at other locations. You will have no internet access during the exams.
 
 Exams contains only multiple-choice questions to test your general knowledge of data science and also coding knowledge.
-For example, we may put some code in the question description and ask you to select the option that best explains what the code is doing (or the expected output of the code).
 We will provide only one mock exam before the mid-term exam for you to practice.
+No mock-up exam will be provided for the final exam.
 
 We will use guess correction for your score on the multiple-choice questions.
 Details about how the ANS system uses guess correction is in [this online document](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction).
 
-To prepare for the exam, please make sure that you do all the practices and assignments, go through all the Jupyter Notebooks for the three modules (structured data, text data, and image data), and understand the content in the course slides.
-
 {: .warning }
 > The University of Amsterdam owns the materials in this exam (e.g., the question sets), which means the materials are copyright-protected. You must keep the exam content confidential and are not allowed to copy or distribute the content in any form.
+
+### Cheat Sheet
+
+During the exam, you may bring an A4-size cheat sheet with you.
+You can choose to handwrite or print the content on both sides of the cheat sheet.
+Please keep in mind that you are not allowed to bring other materials, such as books.
+You are also not allowed to bring or use any other digital devices (besides the computer for the exam).
+After the exam, you can take the cheat sheet back with you.
+
+The cheat sheet is designed to reduce your workload in memorizing details (e.g., math equations) and also help you prepare for exams.
+For example, maybe there are parts that confuse you when you study course materials, and you may put them in the cheat sheet.
+Another example is that you may put bullet points that can help you recall information (e.g., some important concepts).
+
+### Exam Preparation
+
+Please refer to the [schedule outline](index#schedule-outline) for the mid-term and final exams' coverage range.
+To prepare for the exams, please make sure that you prepare the materials that are in the coverage range.
+Below is a suggested plan:
+- Redo assignments and practices, as well as check their answers
+- Study lecture slides and all the provided Jupyter notebooks
+- Rewatch lecture recordings
+- Prepare your one A4-size page cheatsheet (double-sided) while studying
+
+Regarding math, as a general rule of thumb, if a math equation is on the slide, and I explained it in the lecture, it means that the equation may appear in the exam (in different ways).
+For example, the cosine similarity and softmax equations are in the slides (which I explained in the lecture), so they may appear in the exam (e.g., by asking you to compute them or why we need them).
+Another example is that you need to understand how a decision tree works, including how to compute entropy and the misclassification error, as well as how they are used for splitting tree nodes.
+However, the likelihood function appears in the slides, but it is not explained in detail, so this means the exam will not ask detailed math questions regarding the likelihood function (but may still ask high-level questions, such as why we need it).
+
+Regarding math equations specifically, you need to know what they are doing at a high level.
+For example, what is the purpose of having a loss function?
+What do they measure?
+What are the loss functions that can be used for regression?
+We will provide equations for complicated functions (like entropy) in the question description or exam instruction.
+But we will not provide equations for simpler things like accuracy, precision, recall, and f-score (or anything related to computing these metrics).
+
+Regarding coding, multiple choice questions in the exam can contain coding-related questions.
+For example, we may put some code in the question description and ask you to select the option that best explains what the code is doing (or the expected output of the code).
+This means that you need to really do the assignments and practices to write the code, as they can appear in the exam as multiple-choice questions.
+However, you do not need to worry about the code that is not in the tasks that we ask you to do in the assignments and practices, such as the code in the blocks other than the assignment parts in the structured processing tutorial notebook.
+In other words, you only need to care about the code in the answers block and also the code mentioned in the course slides.
+
+For the final exam specifically, We aim to focus more on the newly introduced materials that are not covered in the mid-term exam, but the distribution of exam questions may change.
+This means that you still need to prepare and rehearse the materials that are covered in the mid-term exam.
+There will be questions about PyTorch in the final exam.
+But we will not test coding about PyTorch.
+However, there may be high-level questions regarding PyTorch, such as the content of the notebook in the PyTorch Tutorial lecture and the practice of implementing a PyTorch pipeline.
 
 ### On the Exam Day
 
@@ -171,18 +215,6 @@ To prepare for the exam, please make sure that you do all the practices and assi
 
 {: .warning }
 > Anyone who arrives more than 30 minutes late cannot participate in the exam. We are very strict about this.
-
-### Cheat Sheet
-
-During the exam, you may bring an A4-size cheat sheet with you.
-You can choose to handwrite or print the content on both sides of the cheat sheet.
-Please keep in mind that you are not allowed to bring other materials, such as books.
-You are also not allowed to bring or use any other digital devices (besides the computer for the exam).
-After the exam, you can take the cheat sheet back with you.
-
-The cheat sheet is designed to reduce your workload in memorizing details (e.g., math equations) and also help you prepare for exams.
-For example, maybe there are parts that confuse you when you study course materials, and you may put them in the cheat sheet.
-Another example is that you may put bullet points that can help you recall information (e.g., some important concepts).
 
 ## Policy for Retaking This Course
 

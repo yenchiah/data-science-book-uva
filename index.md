@@ -6,7 +6,7 @@ nav_order: 0
 
 # Course Overview
 
-(Last updated: Jan 23, 2024)
+(Last updated: Jan 31, 2024)
 
 - Course Name: Data Science (2023/2024)
 - Program: The third year of Bachelor Informatiekunde (i.e., Information Science)
@@ -16,6 +16,9 @@ nav_order: 0
 - Refer to [DataNose](https://datanose.nl/) for the time table and classroom location.
 - Refer to [Canvas](https://canvas.uva.nl/) for announcements, links to live lectures, and teaching team members' emails.
 - Previous editions: [2023 version](https://multix.io/data-science-book-uva-2023/)
+
+{: .important }
+> All course and assessment materials (e.g., exam questions, exam instructions, lecture slides, assignment content) will be in English. Lectures will also be given in English.
 
 All the content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
