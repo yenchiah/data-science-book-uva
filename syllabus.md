@@ -113,6 +113,9 @@ This means that you only need to submit the reflective writing questionnaire usi
 Deadlines for submitting the reflective writing questionnaires are on Canvas and also the [schedule outline](index#schedule-outline).
 Grading rubic of reflective writing is on Canvas (or [can be downloaded here](files/reflective-writing-grading-rubric.docx)).
 
+{: .note }
+> The reflective writing questionnaire can be completed in either Dutch or English.
+
 We expect you to do the assignments by yourself and discuss them with the TAs in the seminars.
 You can work on the assignments with other students.
 The questions in mid-term and final exams can be similar to those in the assignments.
