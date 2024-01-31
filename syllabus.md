@@ -114,6 +114,7 @@ Deadlines for submitting the reflective writing questionnaires are on Canvas and
 Grading rubic of reflective writing is on Canvas.
 
 We expect you to do the assignments by yourself and discuss them with the TAs in the seminars.
+You can work on the assignments with other students.
 The questions in mid-term and final exams can be similar to those in the assignments.
 Doing the assignments also helps you greatly in preparing for the exams.
 
