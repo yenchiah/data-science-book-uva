@@ -109,9 +109,9 @@ After the grade is released, we will announce on Canvas how students can inspect
 
 After doing each assignment, you will need to complete and submit a reflective writing questionnaire on Canvas to explain what you learned from doing the assignment and how you learned the knowledge.
 The reflective writing questionnaires will be graded, but the assignments themselves will not be graded.
-This means that you only need to submit the reflective writing questionnaire using the template that we provide on Canvas.
+This means that you only need to submit the reflective writing questionnaire using the template that we provide on Canvas (or [can be downloaded here](files/reflective-writing-template.docx)).
 Deadlines for submitting the reflective writing questionnaires are on Canvas and also the [schedule outline](index#schedule-outline).
-Grading rubic of reflective writing is on Canvas.
+Grading rubic of reflective writing is on Canvas (or [can be downloaded here](files/reflective-writing-grading-rubric.docx)).
 
 We expect you to do the assignments by yourself and discuss them with the TAs in the seminars.
 You can work on the assignments with other students.
