@@ -196,7 +196,7 @@ This means that you need to really do the assignments and practices to write the
 However, you do not need to worry about the code that is not in the tasks that we ask you to do in the assignments and practices, such as the code in the blocks other than the assignment parts in the structured processing tutorial notebook.
 In other words, you only need to care about the code in the answers block and also the code mentioned in the course slides.
 
-For the final exam specifically, We aim to focus more on the newly introduced materials that are not covered in the mid-term exam, but the distribution of exam questions may change.
+For the final exam specifically, we aim to focus more on the newly introduced materials that are not covered in the mid-term exam, but the distribution of exam questions may change.
 This means that you still need to prepare and rehearse the materials that are covered in the mid-term exam.
 There will be questions about PyTorch in the final exam.
 But we will not test coding about PyTorch.
