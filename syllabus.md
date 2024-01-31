@@ -30,7 +30,7 @@ Also, notice that this course assumes someone already collected datasets for you
 Data collection is a topic that could take a very long time to explain and is mostly out of the scope of this course.
 
 {: .note }
-> Notice that the course instructor writes the syllabus from the first-person perspective.
+> Notice that the course instructor writes the syllabus from the first-person perspective. The target audience for this document is students, and thus, we use "you" to refer to the students who are reading this document.
 
 ## Learning Goals
 
@@ -107,15 +107,20 @@ After the grade is released, we will announce on Canvas how students can inspect
 {: .important }
 > Assignment instructions and materials will all be in English.
 
-After doing each assignment, you will need to submit a reflective writing document on Canvas to explain what you learned from doing the assignment and how you learned the knowledge.
-The reflective writing documents will be graded, but the assignments themselves will not be graded.
-This means that you only need to submit the reflective writing documents.
-We will provide a template for reflective writing on Canvas.
-Deadlines for submitting the reflective writing documents will be on Canvas.
+After doing each assignment, you will need to complete and submit a reflective writing questionnaire on Canvas to explain what you learned from doing the assignment and how you learned the knowledge.
+The reflective writing questionnaires will be graded, but the assignments themselves will not be graded.
+This means that you only need to submit the reflective writing questionnaire using the template that we provide on Canvas.
+Deadlines for submitting the reflective writing questionnaires are on Canvas and also the [schedule outline](index#schedule-outline).
+Grading rubic of reflective writing is on Canvas.
 
 We expect you to do the assignments by yourself and discuss them with the TAs in the seminars.
 The questions in mid-term and final exams can be similar to those in the assignments.
 Doing the assignments also helps you greatly in preparing for the exams.
+
+Instead of checking assignments, we choose to provide assignment answers and use the [reflective writing technique](https://wac.umn.edu/tww-program/teaching-resources/using-reflective-writing) to encourage students to monitor their own learning progress.
+We are now in the era of generative AI tools (e.g., ChatGPT), and we believe that, eventually, generative AI tools will be integrated into our workflow.
+Due to this, we no longer feel the need to check your assignments, as the answers (specifically related to coding) can be obtained from generative AI tools.
+Besides, your feedback and reflections can also greatly help us improve the teaching materials for future students.
 
 ## Late Policy of Submissions
 
