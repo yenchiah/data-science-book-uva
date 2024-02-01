@@ -50,12 +50,12 @@ Below are the explanation of terms:
     - You need to submit the reflective writing by `Feb 17 Saturday at 23:59`.
 - Week 3
   - Lecture 5 (Feb 20): Overview of deep learning techniques and applications
-  - Lecture 6 (Feb 22): Tutorial of the PyTorch deep learning framework (using Jupyter Notebook)
+  - Lecture 6 (Feb 22): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
   - Practice 2: PyTorch implementation of structured data processing
   - We will provide a mock exam for next week's mid-term exam.
 - Week 4
   - **Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.
-  - A lecture to discuss the mid-term exam (Feb 29)
+  - A lecture to discuss the mid-term exam questions (Feb 29)
 - Week 5
   - Lecture 7 (Mar 5): Tutorial for the text data processing module (using Jupyter Notebook)
   - Lecture 8 (Mar 7): Explain details in the pipeline of processing text data
