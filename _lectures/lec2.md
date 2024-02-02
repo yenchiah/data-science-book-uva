@@ -8,6 +8,8 @@ nav_order: 1
 
 (Last updated: Jan 23, 2024)
 
+This lecture recaps the fundamentals of data science, such as table operations, classification, and regression.
+
 ## Preparation
 
 Read the [Smell Pittsburgh paper](https://dl.acm.org/doi/10.1145/3369397).
