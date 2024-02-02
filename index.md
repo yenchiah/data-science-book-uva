@@ -46,7 +46,6 @@ Below are the explanation of terms:
   - [Lecture 3 (Feb 13)](lectures/lec3): Tutorial of the structured data processing module (using Jupyter Notebook)
   - [Lecture 4 (Feb 15)](lectures/lec4): Decision Tree and Random Forest for structured data processing
   - [Assignment 1](https://multix.io/structured-data-module/docs/assignment-structured-data.html): Structured data processing module
-    - We will release assignment 1 by the end of Feb 9 Friday.
     - You need to submit the reflective writing by `Feb 17 Saturday at 23:59`.
 - Week 3
   - [Lecture 5 (Feb 20)](lectures/lec5): Overview of deep learning techniques and applications
