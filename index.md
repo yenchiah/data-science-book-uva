@@ -43,13 +43,13 @@ Below are the explanation of terms:
   - [Lecture 2 (Feb 8)](lectures/lec2): Fundamentals of data science techniques (e.g., table operations, classification, regression)
   - [Practice 1](practices/python-warm-up): Python programming warm-up with Pandas and Numpy
 - Week 2
-  - Lecture 3 (Feb 13): Tutorial of the structured data processing module (using Jupyter Notebook)
-  - Lecture 4 (Feb 15): Decision Tree and Random Forest for structured data processing
-  - Assignment 1: Structured data processing module
+  - [Lecture 3 (Feb 13)](lectures/lec3): Tutorial of the structured data processing module (using Jupyter Notebook)
+  - [Lecture 4 (Feb 15)](lectures/lec4): Decision Tree and Random Forest for structured data processing
+  - [Assignment 1](assignments/assignment-structured-data): Structured data processing module
     - We will release assignment 1 by the end of Feb 9 Friday.
     - You need to submit the reflective writing by `Feb 17 Saturday at 23:59`.
 - Week 3
-  - Lecture 5 (Feb 20): Overview of deep learning techniques and applications
+  - [Lecture 5 (Feb 20)](lectures/lec5): Overview of deep learning techniques and applications
   - Lecture 6 (Feb 22): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
   - Practice 2: PyTorch implementation of structured data processing
   - We will provide a mock exam for next week's mid-term exam.
