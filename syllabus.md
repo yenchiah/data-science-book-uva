@@ -24,10 +24,10 @@ This course is not intended to cover all topics in data science exhaustively.
 Instead, it introduces ways of working with structured (e.g., sensor measurements) and unstructured data (e.g., text and image).
 Also, this course will cover human-centered approaches in data science for social impact.
 
-It is important to keep in mind that this course does not aim to teach you details in programming, machine learning, statistics, or visualization.
-Instead, this course will teach you how to integrate various techniques (e.g., data wrangling, statistical analysis, data modeling, data visualization) together to perform a data science task.
-Also, notice that this course assumes someone already collected datasets for you and does not teach you how to collect data in the real world.
-Data collection is a topic that could take a very long time to explain and is mostly out of the scope of this course.
+It is important to keep in mind about the following of this course:
+- We do not aim to teach you details in programming, machine learning, statistics, or visualization. Instead, we will teach you how to integrate various techniques (e.g., data wrangling, statistical analysis, data modeling, data visualization) together to perform a data science task.
+- We assume someone already collected datasets for you, and we do not teach you how to collect data in the real world. Data collection is a topic that could take a very long time to explain and is mostly out of the scope of this course.
+- We mainly discuss data science in the development environment. We do not cover techniques in the production environment, such as detecting concept drift, performing A/B testing, monitoring model performance continuously, retraining and finetuning models, versioning models and data, using parallel computing, getting user feedback with qualitative or quantitative studies, etc.
 
 {: .note }
 > Notice that the course instructor writes the syllabus from the first-person perspective. The target audience for this document is students, and thus, we use "you" to refer to the students who are reading this document.
