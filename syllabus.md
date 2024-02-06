@@ -218,7 +218,6 @@ However, there may be high-level questions regarding PyTorch, such as the conten
 >
 > - There are scrap papers at the exam location, and we will provide them to you if you need them.
 > - Please make sure to bring your ID. We will check your ID at the exam location.
-> - Please remember to sign the attendance list after someone has checked your ID.
 > - You are only allowed to enter the exam room up to 30 minutes past the exam starting time.
 > - You are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes).
 
