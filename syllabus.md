@@ -148,7 +148,7 @@ For special requests (e.g., deadline extensions) due to personal circumstances t
 {: .important }
 > Exam instructions and materials will all be in English since the course materials are in English. In this way, we can match the exam questions clearly with course materials.
 
-Exams are onsite and will be conducted using the [ANS sytem](https://ans.app/).
+Exams are onsite and will be conducted using the [ANS system](https://ans.app/).
 You will have access to the Jupyter Notebook software for computation during the exam.
 You can use the question mark "?" syntax to [access the IPython help](https://ipython.readthedocs.io/en/stable/interactive/python-ipython-diff.html#accessing-help) to check the documentation of functions.
 
