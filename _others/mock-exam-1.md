@@ -101,6 +101,23 @@ We have defined several terms in the table below. You can refer back to them whe
 > 3. ACBD
 > 4. CBAD
 
+**Q10:** Which of the following practices is recommended in the data science pipeline?
+> 1. Visualizing and exploring data in addition to using descriptive statistics
+> 2. Sticking to a linear data science pipeline that starts from problem framing and data preparation to model building
+> 3. Assuming that someone else has already framed the data science problem
+> 4. Using the same modeling technique to deal with all different types of data
+
+**Q11:** Given a pandas.DataFrame D, which of the following best explains the purpose of the following Python Pandas code?
+```python
+D[(D["c1"]>=3)&(D["c1"]<=5)]
+```
+
+> 1. The code calculates the sum of the values in column "c1" that are greater than or equal to 3 and less than or equal to 5.
+> 2. The code modifies the values in column "c1" to be between 3 and 5 if they have other values.
+> 3. The code creates a new column in DataFrame D that flags rows with "c1" values between 3 and 5 with True, and False otherwise.
+> 4. The code filters the DataFrame D to include only the rows where the values in column "c1" are between 3 and 5 (including 3 and 5).
+
+
 ## Answers
 
 {: .highlight }
@@ -115,5 +132,7 @@ We have defined several terms in the table below. You can refer back to them whe
 > - Q6: 2<br>
 > - Q7: 2<br>
 > - Q8: 3<br>
-> - Q9: 2
+> - Q9: 2<br>
+> - Q10: 1<br>
+> - Q11: 4
 > </details>
