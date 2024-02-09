@@ -24,7 +24,7 @@ We have defined several terms in the table below. You can refer back to them whe
 | Perceptron loss function $$f(y,z)$$ | $$f(y,z)=\max(-yz,0)$$ |
 | Logistic loss function $$f(y,z)$$ | $$f(y,z)=\log(1+e^{-yz})$$ |
 | Binary cross-entropy loss function $$f(y,z)$$ | $$f(y,z)=(1-y)\log_{2}(1-z)-y\log_{2}(z)$$ |
-| Softmax activation function $f(x)$, where $$x_i$$ means the $$i^{th}$$ element in array $$x$$, and $n$ means the total number of elements in array $$x$$ | $$f(x_i) = e^{x_i}/\sum_{j=1}^{n}e^{x_j}$$ |
+| Softmax activation function $$f(x)$$, where $$x_i$$ means the $$i^{th}$$ element in array $$x$$, and $n$ means the total number of elements in array $$x$$ | $$f(x_i) = e^{x_i}/\sum_{j=1}^{n}e^{x_j}$$ |
 | Entropy H for a coin with two sides (one side has probability $$p_{1}$$, and another side has probability $$p_{2}$$) | $$H = p_{1}\log_{2}(1/p_{1}) + p_{2}\log_{2}(1/p_{2})$$ |
 
 **Q1:** Which of the following statements about missing data is **FALSE**?
@@ -93,16 +93,14 @@ We have defined several terms in the table below. You can refer back to them whe
 ## Answers
 
 {: .highlight }
-> <details>
-> <summary>Click to show the answers</summary>
-> Answers
+> <details><summary>Click to show the answers</summary>
 >
-> - Q1 -> 4
-> - Q2 -> 1
-> - Q3 -> 1
-> - Q4 -> 4
-> - Q5 -> 3
-> - Q6 -> 2
-> - Q7 -> 2
-> - Q8 -> 3
+> - Q1: 4
+> - Q2: 1
+> - Q3: 1
+> - Q4: 4
+> - Q5: 3
+> - Q6: 2
+> - Q7: 2
+> - Q8: 3
 > </details>
