@@ -17,9 +17,6 @@ nav_order: 0
 - Refer to [Canvas](https://canvas.uva.nl/) for announcements, links to live lectures, and teaching team members' emails.
 - Previous editions: [2023 version](https://multix.io/data-science-book-uva-2023/)
 
-{: .important }
-> Lectures (hoorcollege) will be given in English, as well as all the teaching materials (e.g., lecture slides, Jupyter notebooks) and assessment materials (e.g., exam questions, exam instructions, assignment content). Seminars (werkcollege) will given in either Dutch or English, depending on the TA’s choice.
-
 All the content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## <a name="schedule"></a>Schedule Outline
