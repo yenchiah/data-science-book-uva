@@ -84,7 +84,7 @@ We have defined several terms in the table below. You can refer back to them whe
 > 3. `D.sum("C1")`
 > 4. `D.groupby("C1").sum()`
 
-**Q8:** Which of the following about data modeling is TRUE?
+**Q8:** Which of the following about data modeling is **TRUE**?
 > 1. R-squared is a common evaluation metric for classification models.
 > 2. We can just use the training data to evaluate if the model will work well.
 > 3. Classification is used to predict categorical labels, and regression is used to predict continuous values.
@@ -95,6 +95,7 @@ We have defined several terms in the table below. You can refer back to them whe
 - B: Split nodes iteratively based on the information gain criterion until all leaf nodes are pure (i.e., all data has only one class) or a stopping condition is met
 - C: Choose the best feature using the information gain criterion for the root node
 - D: Evaluate the classifier’s performance using precision, recall, and F1 score
+
 > 1. CAD
 > 2. CBD
 > 3. ACBD
