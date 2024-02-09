@@ -1,6 +1,6 @@
 ---
 title: "Mock Exam"
-layout: default
+layout: mathjax
 nav_order: 0
 nav_exclude: true
 ---
@@ -70,23 +70,27 @@ We have defined several terms in the table below. You can refer back to them whe
 4. 0.83
 
 **Q6:** Suppose we have an array A of data with 3 columns, and we want to put the data in a pandas data frame. We want to give the first column with name "C1", the second column with name "C2", and the third column with name "C3". Which of the following code produces the desired output for array A (considering that we already imported the pandas package)? For example, the output should look like the following data frame:
+
 |  | C1 | C2 | C3 |
 |---|---|---|---|
 | 0 | 5 | 21.6 | 100 |
 | 1 | 11 | 48.3 | 213 |
 | 2 | 1 | 44.2 | 433 |
+
 1. `pandas.DataFrame(A, rows=["C1", "C2", "C3"])`
 2. `pandas.DataFrame(A, columns=["C1", "C2", "C3"])`
 3. `pandas.DataFrame(A).set_index(["C1", "C2", "C3"])`
 4. `pandas.DataFrame(A, columns=["C1", "C2", "C3"]).set_index(["C1"])`
 
 **Q7:** Suppose we have a pandas data frame D with 100 rows and one column C1. Column C1 has 25% missing data. We want to sum up all valid items in column C1. Which of the following code produces the desired output? For example, if D looks like the data frame below, the code should output 27, which is a sum of 3, 4, and 20.
+
 |  | C1 |
 |---|---|
 | 0 | NaN |
 | 1 | 3 |
 | 2 | 4 |
 | 3 | 20 |
+
 1. `D.drop("C1", axis=1).sum()`
 2. `D.dropna().sum()["C1"]`
 3. `D.sum("C1")`
@@ -100,14 +104,17 @@ We have defined several terms in the table below. You can refer back to them whe
 
 ## Answers
 
-The block below contains the answers to the questions.
-
-```{toggle}
-- Q1 -> 4
-- Q2 -> 1
-- Q3 -> 1
-- Q4 -> 4
-- Q5 -> 3
-- Q6 -> 2
-- Q7 -> 2
-- Q8 -> 3
+{: .highlight }
+> <details>
+> <summary>Click to show the answers</summary>
+>
+> - Q1 -> 4
+> - Q2 -> 1
+> - Q3 -> 1
+> - Q4 -> 4
+> - Q5 -> 3
+> - Q6 -> 2
+> - Q7 -> 2
+> - Q8 -> 3
+>
+> </details>
