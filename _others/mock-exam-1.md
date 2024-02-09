@@ -12,32 +12,20 @@ nav_exclude: true
 {: .important }
 > Notice that this mock exam only contains a part of the real exam. In the real exam, there will be more questions.
 
-This is a mock exam of the Data Science course. There are 8 multiple-choice questions. All the questions have the same weight. There is only one correct or best answer for each question. Below are the general instructions:
-
-- You will have a maximum of 2 hours to complete the exam. Students who have applied for special accommodation receive 30 minutes extra time.
-- You are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule.
-- You can use the Jupyter Notebook to perform computations.
-- You can use the “?” feature in the Jupyter Notebook to check the documentation of functions.
-- You cannot use any reference materials (e.g., smartphone, books) except your one-page double-sided A4 cheatsheet.
-- Read each question and all options very carefully.
-- Make sure to provide an answer for each question. You will not be penalized for incorrect answers. So it is better to guess than leave the question blank.
-- Avoid spending too much time on a difficult question. It is better to complete other questions first and then go back to finish the difficult ones.
-- You must keep the exam content confidential and are not allowed to copy or distribute the content in any form.
-
 We have defined several terms in the table below. You can refer back to them when the questions mention these terms. The feature (i.e., the input) is $x$. The ground truth (i.e., the true output) is $y$. The predicted output is $z$.
 
 | Term | Equation |
 |----|--------|
-| Identity activation function $f(x)$ | $$f(x)=x$$ |
-| Sigmoid activation function $f(x)$ | $$f(x)=1/(1+e^{-x})$$ |
-| Tanh activation function $f(x)$ | $$f(x)=(e^{x}-e^{-x})/(e^{x}+e^{-x})$$ |
-| Hinge loss function $f(y,z)$ | $$f(y,z)=\max(1-yz,0)$$ |
-| Squared error loss function $f(y,z)$ | $$f(y,z)=(y-z)^2$$ |
-| Perceptron loss function $f(y,z)$ | $$f(y,z)=\max(-yz,0)$$ |
-| Logistic loss function $f(y,z)$ | $$f(y,z)=\log(1+e^{-yz})$$ |
-| Binary cross-entropy loss function $f(y,z)$ | $$f(y,z)=(1-y)\log_{2}(1-z)-y\log_{2}(z)$$ |
-| Softmax activation function $f(x)$, where $x_i$ means the $i^{th}$ element in array $x$, and $n$ means the total number of elements in array $x$ | $$f(x_i) = e^{x_i}/\sum_{j=1}^{n}e^{x_j}$$ |
-| Entropy H for a coin with two sides (one side has probability $p_{1}$, and another side has probability $p_{2}$) | $$H = p_{1}\log_{2}(1/p_{1}) + p_{2}\log_{2}(1/p_{2})$$ |
+| Identity activation function $$f(x)$$ | $$f(x)=x$$ |
+| Sigmoid activation function $$f(x)$$ | $$f(x)=1/(1+e^{-x})$$ |
+| Tanh activation function $$f(x)$$ | $$f(x)=(e^{x}-e^{-x})/(e^{x}+e^{-x})$$ |
+| Hinge loss function $$f(y,z)$$ | $$f(y,z)=\max(1-yz,0)$$ |
+| Squared error loss function $$f(y,z)$$ | $$f(y,z)=(y-z)^2$$ |
+| Perceptron loss function $$f(y,z)$$ | $$f(y,z)=\max(-yz,0)$$ |
+| Logistic loss function $$f(y,z)$$ | $$f(y,z)=\log(1+e^{-yz})$$ |
+| Binary cross-entropy loss function $$f(y,z)$$ | $$f(y,z)=(1-y)\log_{2}(1-z)-y\log_{2}(z)$$ |
+| Softmax activation function $f(x)$, where $$x_i$$ means the $$i^{th}$$ element in array $$x$$, and $n$ means the total number of elements in array $$x$$ | $$f(x_i) = e^{x_i}/\sum_{j=1}^{n}e^{x_j}$$ |
+| Entropy H for a coin with two sides (one side has probability $$p_{1}$$, and another side has probability $$p_{2}$$) | $$H = p_{1}\log_{2}(1/p_{1}) + p_{2}\log_{2}(1/p_{2})$$ |
 
 **Q1:** Which of the following statements about missing data is **FALSE**?
 1. Missing Completely At Random (MCAR) means that the missing data is a completely random subset of the entire dataset.
@@ -107,6 +95,7 @@ We have defined several terms in the table below. You can refer back to them whe
 {: .highlight }
 > <details>
 > <summary>Click to show the answers</summary>
+> Answers
 >
 > - Q1 -> 4
 > - Q2 -> 1
@@ -116,5 +105,4 @@ We have defined several terms in the table below. You can refer back to them whe
 > - Q6 -> 2
 > - Q7 -> 2
 > - Q8 -> 3
->
 > </details>
