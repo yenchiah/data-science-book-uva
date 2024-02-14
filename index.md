@@ -48,9 +48,9 @@ Below are the explanation of terms:
   - For the seminar, work on Assignment 1.
 - Week 3
   - [Lecture 5 (Feb 20)](lectures/lec5): Overview of deep learning techniques and applications
-  - Lecture 6 (Feb 22): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
-  - Practice 2: PyTorch implementation of structured data processing
-  - We will provide a mock exam for next week's mid-term exam.
+  - [Lecture 6 (Feb 22)](lectures/lec6): Tutorial of the PyTorch deep learning framework (the first hour) and review of mid-term exam materials (the second hour)
+  - [Practice 2](https://multix.io/structured-data-module/docs/pytorch-structured-data.html): PyTorch implementation of structured data processing
+  - We will provide a [mock exam](others/mock-exam-1) for next week's mid-term exam.
   - For the seminar, work on the mock-up exam, Practice 2, and [preparation for the mid-term exam](syllabus#exam-preparation).
 - Week 4
   - **Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.

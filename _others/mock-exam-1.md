@@ -2,12 +2,11 @@
 title: "Mock Exam"
 layout: mathjax
 nav_order: 0
-nav_exclude: true
 ---
 
 # Mock Exam
 
-(Last updated: Feb 9, 2024)
+(Last updated: Feb 14, 2024)
 
 {: .important }
 > Notice that this mock exam only contains a part of the real exam. In the real exam, there will be more questions.
