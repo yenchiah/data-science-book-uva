@@ -169,8 +169,6 @@ Details about how the ANS system uses guess correction is in [this online docume
 
 During the exam, you may bring an A4-size cheat sheet with you.
 You can choose to handwrite or print the content on both sides of the cheat sheet.
-Please keep in mind that you are not allowed to bring other materials, such as books.
-You are also not allowed to bring or use any other digital devices (besides the computer for the exam).
 After the exam, you can take the cheat sheet back with you.
 
 The cheat sheet is designed to reduce your workload in memorizing details (e.g., math equations) and also help you prepare for exams.
@@ -220,6 +218,8 @@ However, there may be high-level questions regarding PyTorch, such as the conten
 > - Please make sure to bring your ID. We will check your ID at the exam location.
 > - You are only allowed to enter the exam room up to 30 minutes past the exam starting time.
 > - You are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes).
+> - You can only bring pens, snacks, drinks, the A4-size cheat sheet, and your ID to the exam room. Other things are not allowed and must be stored in the lockers, such as books, mobile phones, coats, bags, etc.
+> - If you really need to go to the toilet, please raise your hand and notify the invigilators. An invigilator will need to accompany and wait for you outside the toilet.
 
 {: .warning }
 > Anyone who arrives more than 30 minutes late cannot participate in the exam. We are very strict about this.
