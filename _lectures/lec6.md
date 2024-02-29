@@ -8,6 +8,8 @@ nav_order: 5
 
 (Last updated: Feb 14, 2024)
 
+This lecture gives an introduction about using the PyTorch deep learning framework.
+
 ## Preparation
 
 Watch this 3-minute [PyTorch in 100 Seconds](https://www.youtube.com/watch?v=ORMx45xqWkA) video.
