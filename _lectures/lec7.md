@@ -2,7 +2,6 @@
 title: "L7: Text Data I"
 layout: default
 nav_order: 6
-nav_exclude: true
 ---
 
 # Lecture 7: Text Data Processing (Part I)
@@ -18,7 +17,7 @@ Do the [preparation](https://multix.io/text-data-module/docs/preparation-text-da
 ## Materials
 
 Below is the link to the online notebook:
-- [Text Data Processing Tutorial Online Notebook](../modules/text-data-module/tutorial-text-data)
+- [Text Data Processing Tutorial Online Notebook](https://multix.io/text-data-module/docs/tutorial-text-data.html)
 
 To make the notebook work on your local machine, go to the GitHub link below and clone the entire repository. Or you could also download a zip file from [this link](https://github.com/MultiX-Amsterdam/text-data-module/archive/refs/heads/main.zip).
 - [GitHub Repository for the Text Data Processing Module](https://github.com/MultiX-Amsterdam/text-data-module)

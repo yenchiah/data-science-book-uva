@@ -56,10 +56,9 @@ Below are the explanation of terms:
   - **Mid-term Exam (Feb 27)**, covering materials from Lecture 1 to 5, Practice 1, and Assignment 1. Lecture 6 and Practice 2 are not covered in the mid-term exam.
   - A lecture to discuss the mid-term exam questions (Feb 29)
 - Week 5
-  - Lecture 7 (Mar 5): Tutorial for the text data processing module (using Jupyter Notebook)
-  - Lecture 8 (Mar 7): Explain details in the pipeline of processing text data
-  - Assignment 2: Text data processing module
-    - We will release assignment 2 by the end of Mar 1 Friday.
+  - [Lecture 7 (Mar 5)](lectures/lec7): Tutorial for the text data processing module (using Jupyter Notebook)
+  - [Lecture 8 (Mar 7)](lectures/lec8): Explain details in the pipeline of processing text data
+  - [Assignment 2](https://multix.io/text-data-module/docs/assignment-text-data.html): Text data processing module
     - You need to submit the [reflective writing](syllabus#reflective-writing-of-assignments) by `Mar 9 Saturday at 23:59`.
   - For the seminar, work on Assignment 2.
 - Week 6
